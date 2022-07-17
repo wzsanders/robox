@@ -6049,7 +6049,7 @@
       "ssh_port": 22,
       "ssh_timeout": "7200s",
       "shutdown_command": "/sbin/poweroff",
-      "generation": 1,
+      "generation": 2,
       "headless": true,
       "communicator": "ssh",
       "skip_compaction": false,
