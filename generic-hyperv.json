@@ -6017,8 +6017,8 @@
       "type": "hyperv-iso",
       "name": "generic-alpine316-hyperv",
       "vm_name": "generic-alpine316-hyperv",
-      "temp_path": "output/",
-      "output_directory": "output/generic-alpine316-hyperv",
+      "temp_path": "./output/",
+      "output_directory": "./output/generic-alpine316-hyperv",
       "boot_wait": "60s",
       "boot_keygroup_interval": "1s",
       "boot_command": [
